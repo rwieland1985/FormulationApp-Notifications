@@ -1,0 +1,11 @@
+{
+  "notifications": [
+    {
+      "id": "2025-09-18-first-test",
+      "title": "Test for Toast Notifications",
+      "message": "This is your first push notification test.",
+      "url": "https://yourproperty.tawk.help",
+      "showAsToast": true
+    }
+  ]
+}
