@@ -1,13 +1,6 @@
 {
   "notifications": [
     {
-      "id": "2025-09-18-first-test",
-      "title": "Test for Toast Notifications",
-      "message": "This is your first push notification test.",
-      "url": "https://formulationmaker.tawk.help",
-      "showAsToast": true
-    },
-    {
       "id": "2025-09-24-New-Update",
       "title": "New Update - Program Enhancements",
       "message": "Update adds ability to reorder Instructions in the Notes & Instructions form of Formulations & Soap Formulations",
