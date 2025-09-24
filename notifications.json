@@ -9,3 +9,13 @@
     }
   ]
 }
+{
+  "notifications":[
+    {
+      "id": "2025-09-24-New-Update",
+      "title": "New Update - Program Enhancements",
+      "message": "Update adds ability to reorder Instructions in the Notes & Instructions form of Formulations & Soap Formulations",
+      "showAsToast": true
+    }
+  ]
+}
