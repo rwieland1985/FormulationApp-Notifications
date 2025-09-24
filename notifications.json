@@ -6,11 +6,7 @@
       "message": "This is your first push notification test.",
       "url": "https://formulationmaker.tawk.help",
       "showAsToast": true
-    }
-  ]
-}
-{
-  "notifications":[
+    },
     {
       "id": "2025-09-24-New-Update",
       "title": "New Update - Program Enhancements",
