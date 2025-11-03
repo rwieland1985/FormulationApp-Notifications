@@ -1,14 +1,14 @@
 {
   "notifications": [
     {
-      "id": "2025-09-27-New-Update",
-      "title": "New Version 1.0.9.0 - Program Enhancements",
-      "message": "Update adds ability to reorder Instructions in the Notes & Instructions form of Formulations & Soap Formulations.  Open the Microsoft Store to Update to latest version now!",
+      "id": "2025-11-03-New-Update Coming Soon",
+      "title": "New Version 1.1.0.0 - Update Coming Soon!",
+      "message": "Updates will include: Easier Backups, Inventory Features, Lot/Batch & Exipiry Tracking",
       "url": "https://apps.microsoft.com/detail/9P5L19FWJ7KJ",
       "showAsToast": true
     },
     {
-      "id": "2025-09-27-Leave-Feedback",
+      "id": "2025-11-02-Leave-Feedback",
       "title": "We Welcome Feeback",
       "message": "Program feedback and feature requests can be sent through the Submit Ticket link in the Knowledge Base or throught the Email in the Help/About tab!",
       "showAsToast": true
