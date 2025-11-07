@@ -1,14 +1,14 @@
 {
   "notifications": [
     {
-      "id": "2025-11-03-New-Update Coming Soon",
-      "title": "New Version 1.1.0.0 - Update Coming Soon!",
-      "message": "Updates will include: Easier Backups, Inventory Features, Lot/Batch & Exipiry Tracking",
+      "id": "2025-11-07-New-Update",
+      "title": "New Version 1.0.10.0 - Update Coming Soon!",
+      "message": "Updates will include: Minor performance updates, better app notifications. Be on the look out for Version 1.1.0.0 coming soon!",
       "url": "https://apps.microsoft.com/detail/9P5L19FWJ7KJ",
       "showAsToast": true
     },
     {
-      "id": "2025-11-02-Leave-Feedback",
+      "id": "2025-11-07-Leave-Feedback",
       "title": "We Welcome Feeback",
       "message": "Program feedback and feature requests can be sent through the Submit Ticket link in the Knowledge Base or throught the Email in the Help/About tab!",
       "showAsToast": true
